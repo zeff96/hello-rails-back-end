@@ -3,4 +3,5 @@ class GreetingsController < ApplicationController
     @greeting = Greeting.all.sample
 
     render json: @greeting
+  end
 end
