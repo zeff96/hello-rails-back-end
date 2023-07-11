@@ -158,7 +158,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zeff96/hello_rails_react/issues).
+Feel free to check the [issues page](https://github.com/zeff96/hello_rails_back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
